@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Lampa-Book/static/css/main.073c9b0a.css",
+    "main.js": "/React-Lampa-Book/static/js/main.cfb515d7.js",
+    "static/js/787.f3786247.chunk.js": "/React-Lampa-Book/static/js/787.f3786247.chunk.js",
+    "static/media/logo.svg": "/React-Lampa-Book/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Lampa-Book/index.html",
+    "main.073c9b0a.css.map": "/React-Lampa-Book/static/css/main.073c9b0a.css.map",
+    "main.cfb515d7.js.map": "/React-Lampa-Book/static/js/main.cfb515d7.js.map",
+    "787.f3786247.chunk.js.map": "/React-Lampa-Book/static/js/787.f3786247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cfb515d7.js"
+  ]
+}
